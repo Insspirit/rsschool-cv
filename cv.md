@@ -16,6 +16,10 @@ While practicing my design skills, I realized that I didn’t want to stop there
 - UX/UI Design
 # **Education**
 * **Grodno State Agrarian University**
-    *Plant Protection and Quarantine
+     - Plant Protection and Quarantine
 * **IT-Academy**
-    *UX/UI Design
+     - UX/UI Design
+# **Languages**
+- **Russian** - native speaker
+- **English** - A2 (B1 in process)
+- **Polish** - B1
