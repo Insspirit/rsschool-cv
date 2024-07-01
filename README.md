@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Insspirit.github.io/rsschool-cv/
