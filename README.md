@@ -1,2 +1,2 @@
-https://Insspirit.github.io/rsschool-cv/cv
-https://Insspirit.github.io/rsschool-cv/
+md: https://Insspirit.github.io/rsschool-cv/cv
+deploy: https://Insspirit.github.io/rsschool-cv/
