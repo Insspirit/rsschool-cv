@@ -85,6 +85,7 @@ header {
 }
 
 .name h1 {
+    text-transform: uppercase;
     color: #5E2563;
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
@@ -109,7 +110,6 @@ h2 {
 h3 {
     color: #5E2563;
     text-align: center;
-    font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 700;
@@ -118,7 +118,6 @@ h3 {
 }
 p {
     color: #212121;
-    font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -139,6 +138,10 @@ p {
     align-items: center;
     gap: 0.5rem;
 }
+.contact_list a {
+    text-decoration: none;
+    color: #212121;
+}
 
 .contact_list img {
     width: 20px;
@@ -149,7 +152,9 @@ p {
     display: flex;
     gap: 12px;
 }
-
+ul {
+    list-style-type: none;
+  }
 .right_column ul {
     list-style: none;
     display: flex;
@@ -166,7 +171,11 @@ p {
     text-decoration: none;
     font-weight: bold;
 }
-
+strong {
+    color: #5E2563;
+    text-decoration: none;
+    font-weight: bold;
+}
 .right_column a:hover {
     text-decoration: underline;
 }
@@ -206,7 +215,9 @@ footer {
     align-items: center;
     gap: 0.5rem;
 }
-
+.footer-content p {
+    color: white;
+}
 .rs-logo {
     height: 30px;
 }
